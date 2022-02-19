@@ -17,6 +17,9 @@
 - 눈(Snow)
 
 
+![figure002](https://user-images.githubusercontent.com/3586713/154793554-633ec338-04dd-4f94-a186-8cd3f4714776.png)
+
+
 ## Installation
 
 ### Pre-requisites
